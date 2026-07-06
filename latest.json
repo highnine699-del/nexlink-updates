@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.1/NexLink-Installer.exe",
-    "sha256":  "325EE5748970DF93890874D70CC61B9DC3A763386D9918C0EBAFFBD25C988E7E",
-    "version":  "1.3.1",
-    "notes":  "Fixed Pro license activation: added missing Microsoft.VisualBasic assembly load for InputBox"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.2/NexLink-Installer.exe",
+    "sha256":  "7C124A64FA3B6DBEECFC1EAAAEC13F43388436FA555C18CF4FE3EA76A235C05E",
+    "version":  "1.3.2",
+    "notes":  "minor bug fixes"
 }
