@@ -1,5 +1,6 @@
-{
-  "version": "1.2.3",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.3/NexLink-Installer.exe",
-  "sha256": "6849499D0B9097101762FD1CBEE6868786E0B8BDCB22230EB8C1798900BD0501"
+﻿{
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.5/NexLink-Installer.exe",
+    "sha256":  "18884323FE0381ED011DBA602161B74EDE56C305748993B5429DDB610B044EA3",
+    "version":  "1.2.5",
+    "notes":  "Testing automated release pipeline"
 }
