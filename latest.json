@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.7/NexLink-Installer.exe",
-    "sha256":  "A3B94DCC7EFB2C4F4F0863D40F741B96C8B3ECE249AE32D99FF2E826E159EF52",
-    "version":  "1.2.7",
-    "notes":  "Fixed version display in Advanced panel not updating (was hardcoded XAML text, now pulls from actual version variable)"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.9/NexLink-Installer.exe",
+    "sha256":  "AD9BE507F6FE8E35B5713E0F6ECA00BD7A838EF320BFCE8F0DE5C9C08A8B53ED",
+    "version":  "1.2.9",
+    "notes":  "Fixed credential re-entry exiting app on cancel; fixed Open Log File not coming to foreground (elevated-process restriction)"
 }
