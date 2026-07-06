@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.6/NexLink-Installer.exe",
-    "sha256":  "5AB12F304AE7A0410418E870F48E02EE676F869965D77031085CB76863F84ED4",
-    "version":  "1.2.6",
-    "notes":  "Fixed BOM-tolerant JSON parsing (previous fix used PS7-only syntax not supported in PS5.1)"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.2.7/NexLink-Installer.exe",
+    "sha256":  "A3B94DCC7EFB2C4F4F0863D40F741B96C8B3ECE249AE32D99FF2E826E159EF52",
+    "version":  "1.2.7",
+    "notes":  "Fixed version display in Advanced panel not updating (was hardcoded XAML text, now pulls from actual version variable)"
 }
