@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.3/NexLink-Installer.exe",
-    "sha256":  "81E0BB312862135D31517B1065EFF03B522B17FA4E3F84B60C6DEDEDFFB0C5A4",
-    "version":  "1.3.3",
-    "notes":  "Bug fixes and improvements"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.4/NexLink-Installer.exe",
+    "sha256":  "CA7E8159A927912E032975DFD07CD280065A64F8A8ACF5EB1E7A45A387B84776",
+    "version":  "1.3.4",
+    "notes":  "NexLink Pro: working license system with Paystack integration"
 }
