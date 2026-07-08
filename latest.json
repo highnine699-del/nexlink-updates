@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.6/NexLink-Installer.exe",
-    "sha256":  "8473AD432EB86CBB1F258913BD598CFA2C4DFE38460D8800B67FADA4ED03AADE",
-    "version":  "1.3.6",
-    "notes":  "Repo hygiene: stop tracking compiled binaries in source, comprehensive .gitignore, HTTP fallback warning, deprecated legacy files marked"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.7/NexLink-Installer.exe",
+    "sha256":  "57AC50E683A27254248207264A26C7B5EE7811ED20A42C3AA3BB0B667E21621D",
+    "version":  "1.3.7",
+    "notes":  "Patched payment placeholder URL, addressed configuration mismatches, and optimized visual assets."
 }
