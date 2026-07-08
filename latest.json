@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.8/NexLink-Installer.exe",
-    "sha256":  "0AE7BC0E489AD9798B98329E108BFA776EBAA587C3DF84EF19FB3AFE965A5E7D",
-    "version":  "1.3.8",
-    "notes":  "Critical fix: restore live Paystack payment URL, accidentally overwritten with placeholder during cleanup"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.9/NexLink-Installer.exe",
+    "sha256":  "4283B67E2EA3B19F4591D54AD9D66284EB104067715BBBF3E849E79AFF33EF09",
+    "version":  "1.3.9",
+    "notes":  "Fix: restore live Paystack payment URL"
 }
