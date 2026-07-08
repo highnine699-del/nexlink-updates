@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.5/NexLink-Installer.exe",
-    "sha256":  "9DBAE1D66886E9E87412B9E5258ED7032E2EFF10A69F0293D9FE580B380B5F9D",
-    "version":  "1.3.5",
-    "notes":  "Pro licensing hardening: device-bound activation via Cloudflare KV, encrypted local license storage (previously plaintext)"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.6/NexLink-Installer.exe",
+    "sha256":  "8473AD432EB86CBB1F258913BD598CFA2C4DFE38460D8800B67FADA4ED03AADE",
+    "version":  "1.3.6",
+    "notes":  "Repo hygiene: stop tracking compiled binaries in source, comprehensive .gitignore, HTTP fallback warning, deprecated legacy files marked"
 }
