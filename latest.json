@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.9/NexLink-Installer.exe",
-    "sha256":  "4283B67E2EA3B19F4591D54AD9D66284EB104067715BBBF3E849E79AFF33EF09",
-    "version":  "1.3.9",
-    "notes":  "Fix: restore live Paystack payment URL"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.10/NexLink-Installer.exe",
+    "sha256":  "2E4D8315E8E0ECBE871B570CB73035B83B904FC4D26FEE369533F97E0007152A",
+    "version":  "1.3.10",
+    "notes":  "Critical: server-signed device tokens close a license-forgery gap"
 }
