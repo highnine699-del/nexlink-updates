@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.12/NexLink-Installer.exe",
-    "sha256":  "D77879C320B7A2BBB4CF1F624E3CBECE4CCD5ECE8A7B7CEC2652A82FCC0186B0",
-    "version":  "1.3.12",
-    "notes":  "Version bump for testing the self-update fix"
+    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.13/NexLink-Installer.exe",
+    "sha256":  "1D58F22D6A2D0D02162836EF11162C7FD4DFEE5476E6EE34FD3424DEF0619255",
+    "version":  "1.3.13",
+    "notes":  "Version bump specifically to test the self-update fix"
 }
