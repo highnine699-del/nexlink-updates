@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.16/NexLink-Installer.exe",
-    "sha256":  "C08C5635F33D79628B29833B6DAB79861532EA144DAC51801669EE6AF3AD420E",
-    "version":  "1.3.16",
-    "notes":  "feat: in-app error reporting via email, timer tick resilience fix"
+  "sha256": "137D2E43FA7C8C3ADAEA9BB80867188E8D9F8E46BC6FF6F0C5B3D2074226D963",
+  "notes": "fix: Advanced panel buttons wrap to second row, README.txt version auto-bumped on release, CHANGELOG auto-updated on release",
+  "version": "1.3.17",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.17/NexLink-Installer.exe"
 }
