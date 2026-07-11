@@ -1,6 +1,6 @@
 {
-    "installer_url":  "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.14/NexLink-Installer.exe",
-    "sha256":  "25178EC1B2AF175F82BFBDC05FB83BE84DCFAC048ECC084A6B454B63C7CF7651",
-    "version":  "1.3.14",
-    "notes":  "Security: rotate ECDSA keypair (old key was exposed in git history)"
+  "sha256": "587D5F36721C9CBA7E65C3FCA9FFB010DE07BA296F7DAAB8BEF4B4857C5740E1",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.15/NexLink-Installer.exe",
+  "notes": "Correctness fixes: SSID regex, update helper cleanup, dead code removal",
+  "version": "1.3.15"
 }
