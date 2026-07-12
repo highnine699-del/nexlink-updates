@@ -1,6 +1,6 @@
 {
-  "sha256": "4C1DFAE9CA770D0616ACA55A2DF44670A43CE9199DB9234970AE544EC523232B",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.22/NexLink-Installer.exe",
+  "sha256": "3E24127211B7C71021A86E43C9E2F2217FA58B2DCCEE43EAA5B5419C08A00023",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.23/NexLink-Installer.exe",
   "notes": "Bug fixes and improvements",
-  "version": "1.3.22"
+  "version": "1.3.23"
 }
