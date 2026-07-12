@@ -1,6 +1,6 @@
 {
-  "sha256": "6C06DC458FC105DDD39DF4014375F706D189EFF6CF7AEFE65A255ADA8326F542",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.20/NexLink-Installer.exe",
+  "sha256": "0F353F819A5E076762707CE9374ADCB04B69A50505DA33DB4DFC1CAAAC8CC795",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.21/NexLink-Installer.exe",
   "notes": "Bug fixes and improvements",
-  "version": "1.3.20"
+  "version": "1.3.21"
 }
