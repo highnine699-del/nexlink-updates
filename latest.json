@@ -1,6 +1,6 @@
 {
-  "version": "1.3.42",
-  "notes": "Fix silent-close bug: replace exit calls in Get-PortalCredential with graceful return, since exit bypasses all try/catch and was killing the app on any credential file issue",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.42/NexLink-Installer.exe",
-  "sha256": "CF58429B5A60F9F81ED93EFA873E1C4F6667D6655B2E3ECC6408327A1E6D5722"
+  "version": "1.3.43",
+  "notes": "Bug fixes and improvements",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.43/NexLink-Installer.exe",
+  "sha256": "EB2DBB4DF722C156662199679144F373DB3563E5B9D99801E314D6437D5C4226"
 }
