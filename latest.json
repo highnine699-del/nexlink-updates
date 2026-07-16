@@ -1,6 +1,6 @@
 {
-  "sha256": "68CA6FB1ACF6DAF03DD494838CE3ECDA8AA07BB506BBD716C02F49C8392511AE",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.35/NexLink-Installer.exe",
-  "notes": "Redact portal username from error report logs",
-  "version": "1.3.35"
+  "sha256": "90E00299E2B188D4AAA4DAEE0DC1C8080F722D7B577ED55B0E1E4BB777718EA6",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.36/NexLink-Installer.exe",
+  "notes": "Auto-enable wifi adapter on startup/wake",
+  "version": "1.3.36"
 }
