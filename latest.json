@@ -1,6 +1,6 @@
 {
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.34/NexLink-Installer.exe",
-  "sha256": "153953B36A2F3DC86A98F73C0017AED48376DF21A416CCEC8C5BA4B0F6D6B1CB",
-  "version": "1.3.34",
-  "notes": "Retry logic on core portal calls, deprecated recompile_wpf.ps1 in favor of release.ps1"
+  "sha256": "68CA6FB1ACF6DAF03DD494838CE3ECDA8AA07BB506BBD716C02F49C8392511AE",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.35/NexLink-Installer.exe",
+  "notes": "Redact portal username from error report logs",
+  "version": "1.3.35"
 }
