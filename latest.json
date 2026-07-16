@@ -1,6 +1,6 @@
 {
-  "sha256": "F6E81733A1A2B419B6D01C67C208A917440C7BA569CF4F4943A6D3BB0F6E488F",
-  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.38/NexLink-Installer.exe",
-  "notes": "Detect invalid credentials and traffic-limit-reached portal states; stop futile retries and surface honest status to the user",
-  "version": "1.3.38"
+  "sha256": "F0DDD44807371B5BCEB5C5B6FB5ECA8128DB80384457CFAA455613DC6F23EE4D",
+  "installer_url": "https://github.com/highnine699-del/nexlink-updates/releases/download/v1.3.39/NexLink-Installer.exe",
+  "notes": "Cache Get-VisibleWifiNetworks within reconnect attempts; add safe log rotation at 5MB",
+  "version": "1.3.39"
 }
